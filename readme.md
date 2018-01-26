@@ -1,3 +1,6 @@
+# Capstone demo project (New Cassel Work Order System)
+
+Built using:
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
@@ -25,6 +28,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-# New-Base-code--New-cassel-
-# New-Cassel-first-code-base
-# New-Cassel-first-code-base
